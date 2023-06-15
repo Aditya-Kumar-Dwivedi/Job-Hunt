@@ -1,4 +1,10 @@
-# Indeed_Job_Scraper
+# Job-Hunt
+
+# For starting the Hunt
+
+-download the requirements `pip install -r requirements.txt`
+
+# How to use
 
 - Given the Skill and the Location, this script will scrape the Indeed Indian website for the Jobs that match the skill and location provided by the User. The Number of Pages to Scrape the site is also given by the User.
 
